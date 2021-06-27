@@ -1,6 +1,6 @@
 {
   "0": {
-    "prototext": "QUEST_UNKNOWN_TYPE",
+    "prototext": "QUEST_UNSET",
     "text": "Unknown quest type"
   },
   "1": {
@@ -206,5 +206,9 @@
   "57": {
     "prototext": "QUEST_TAKE_WILD_SNAPSHOT",
     "text": "Take {0} snapshot(s) of wild pokémon"
+  },
+  "58": {
+    "prototext": "QUEST_USE_POKEMON_ITEM",
+    "text": "QUEST_USE_POKEMON_ITEM"
   }
 }

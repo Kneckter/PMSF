@@ -30,5 +30,25 @@
   "7": {
     "prototext": "POKEMON_ENCOUNTER",
     "text": "Pokémon encounter"
+  },
+  "8": {
+    "prototext": "POKECOIN",
+    "text": "Pokecoin"
+  },
+  "9": {
+    "prototext": "XL_CANDY",
+    "text": "XL Candy"
+  },
+  "10": {
+    "prototext": "LEVEL_CAP",
+    "text": "Level Cap Increase"
+  },
+  "11": {
+    "prototext": "STICKER",
+    "text": "Sticker"
+  },
+  "12": {
+    "prototext": "MEGA_RESOURCE",
+    "text": "Mega Energy"
   }
 }

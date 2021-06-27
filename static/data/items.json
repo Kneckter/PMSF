@@ -1,23 +1,23 @@
 {
   "1": {
     "protoname": "ITEM_POKE_BALL",
-    "name": "Pokéball"
+    "name": "Poké Ball"
   },
   "2": {
     "protoname": "ITEM_GREAT_BALL",
-    "name": "Greatball"
+    "name": "Great Ball"
   },
   "3": {
     "protoname": "ITEM_ULTRA_BALL",
-    "name": "Ultraball"
+    "name": "Ultra Ball"
   },
   "4": {
     "protoname": "ITEM_MASTER_BALL",
-    "name": "Masterball"
+    "name": "Master Ball"
   },
   "5": {
     "protoname": "ITEM_PREMIER_BALL",
-    "name": "Premierball"
+    "name": "Premier Ball"
   },
   "101": {
     "protoname": "ITEM_POTION",
@@ -53,15 +53,15 @@
   },
   "402": {
     "protoname": "ITEM_INCENSE_SPICY",
-    "name": "Incense Spicy"
+    "name": "Spicy Incense"
   },
   "403": {
     "protoname": "ITEM_INCENSE_COOL",
-    "name": "Incense Cool"
+    "name": "Cool Incense"
   },
   "404": {
     "protoname": "ITEM_INCENSE_FLORAL",
-    "name": "Incense Floral"
+    "name": "Floral Incense"
   },
   "405": {
     "protoname": "ITEM_INCENSE_BELUGA_BOX",
@@ -121,15 +121,15 @@
   },
   "706": {
     "protoname": "ITEM_GOLDEN_RAZZ_BERRY",
-    "name": "Golden Razz"
+    "name": "Golden Razz Berry"
   },
   "707": {
     "protoname": "ITEM_GOLDEN_NANAB_BERRY",
-    "name": "Golden Pinap"
+    "name": "Golden Pinap Berry"
   },
   "708": {
     "protoname": "ITEM_GOLDEN_PINAP_BERRY",
-    "name": "Silver Pinap"
+    "name": "Silver Pinap Berry"
   },
   "709": {
     "protoname": "ITEM_POFFIN",
@@ -138,6 +138,10 @@
   "801": {
     "protoname": "ITEM_SPECIAL_CAMERA",
     "name": "Camera"
+  },
+  "802": {
+    "protoname": "ITEM_STICKER_INVENTORY",
+    "name": "Stickers"
   },
   "901": {
     "protoname": "ITEM_INCUBATOR_BASIC_UNLIMITED",
@@ -195,9 +199,21 @@
     "protoname": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
     "name": "Charge TM"
   },
+  "1203": {
+    "protoname": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+    "name": "Elite Fast TM"
+  },
+  "1204": {
+    "protoname": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+    "name": "Elite Charge TM"
+  },
   "1301": {
     "protoname": "ITEM_RARE_CANDY",
     "name": "Rare Candy"
+  },
+  "1302": {
+    "protoname": "ITEM_XL_RARE_CANDY",
+    "name": "Rare Candy XL"
   },
   "1401": {
     "protoname": "ITEM_FREE_RAID_TICKET",
@@ -223,6 +239,14 @@
     "protoname": "ITEM_TEAM_CHANGE",
     "name": "Team Medallion"
   },
+  "1407": {
+    "protoname": "ITEM_ROUTE_MAKER",
+    "name": "Route Maker"
+  },
+  "1408": {
+    "protoname": "ITEM_REMOTE_RAID_TICKET",
+    "name": "Remote Raid Pass"
+  },
   "1501": {
     "protoname": "ITEM_LEADER_MAP_FRAGMENT",
     "name": "Mysterious Component"
@@ -237,6 +261,14 @@
   },
   "1600": {
     "protoname": "ITEM_GLOBAL_EVENT_TICKET",
+    "name": "Global Event Ticket"
+  },
+  "1601": {
+    "protoname": "ITEM_EVENT_TICKET_PINK",
+    "name": "Global Event Ticket"
+  },
+  "1602": {
+    "protoname": "ITEM_EVENT_TICKET_GRAY",
     "name": "Global Event Ticket"
   }
 }
